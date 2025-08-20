@@ -2,4 +2,6 @@ import requests
 from bs4 import BeautifulSoup 
 
 
-print ("hello initial commit!")
+pc_url = input("URL To Prebuilt")
+
+print(pc_url)
